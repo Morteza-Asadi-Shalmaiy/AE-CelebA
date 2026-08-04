@@ -27,6 +27,8 @@ across epochs.
 
 ## Architecture
 
+![Architecture](assets/Architecture.png)
+
 - **Encoder** — 3 strided convolutions (64 → 128 → 256 channels, stride 2 each) with batch
   norm + ReLU, flattened and projected to a 128-dim latent vector with a linear layer.
 - **Decoder** — mirrors the encoder: a linear layer back up to the feature map size,
