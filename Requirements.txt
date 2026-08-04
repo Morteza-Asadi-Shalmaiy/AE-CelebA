@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+datasets>=2.14
+Pillow>=9.0
+matplotlib>=3.5
+tqdm>=4.65
