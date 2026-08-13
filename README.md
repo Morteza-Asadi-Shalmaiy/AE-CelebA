@@ -1,4 +1,4 @@
-# AE-CelebA-Faces 🧑‍🦰
+# AE CelebA Faces 🧑‍🦰
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Autoencoder-EE4C2C?logo=pytorch&logoColor=white)
